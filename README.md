@@ -5,11 +5,11 @@ This is a threeJS / node / Express app designed to run on Google App Engine. Wor
 
 To Do
 ---------------
-#[Project Trello Board](https://trello.com/b/ZZ8ew6Pn/resource-strategy-game)
+# [Project Trello Board](https://trello.com/b/ZZ8ew6Pn/resource-strategy-game)
 
 Ideas
 ---------------
-#Units
+# Units
 - Queue orders
 - Attack
 - Construct buildings
@@ -20,7 +20,7 @@ Ideas
 - Trade
 - Explore
 
-#Player
+# Player
 - Create (queue) units
 - Queue building construction
 - Trade using merchants
@@ -30,20 +30,20 @@ Ideas
 - Select global tech upgrades
 - Change game speed
 
-#Buildings
+# Buildings
 - Mine
 - Town Center
 - House
 - Barracks
 - Trade Depot
 
-#Units
+# Units
 - Workers
 - Soldiers
 - Merchants
 - War ships
 
-#Resources
+# Resources
 - Food
 - Metal
 - Energy
